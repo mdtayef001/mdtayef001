@@ -7,9 +7,9 @@ Web Developer
 I'm a Web Developer with a passion for creating wedsite that not only look good but also solve real problems. When I'm not coding, you can find me exploring new technologies. I am always eager to take on new opportunities and working heard.
 
 * 🌍  I'm based in Bangladesh, Dhaka
-* ✉️  You can contact me at [tayefhossain200@gmail.com](mailto:tayefhossain@protonmail.com)
+* ✉️  You can contact me at [tayefhossain200@gmail.com](mailto:tayefhossain@gmail.com)
 * 🚀  I'm currently working on [Ecommerce website](http://github.com/mdtayef001/Tonmoy_vai_Project)
-* 🧠  I'm learning JS, React.js, Node.js, TailwindCSS
+* 🧠  I'm learning next.js, mongoess, typescript
 * 🤝  I'm open to collaborating on web-related projects
 * ⚡  I like taking pictures.
 
