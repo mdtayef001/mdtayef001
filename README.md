@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I'm a Web Developer with a passion for creating websites that not only look good but also solve real problems. When I'm not sketching ideas on paper, you can find me binge-watching a Netflix series or playing video games (My Favorite Game Is Dota 2). My design philosophy is simple: make it visually appealing, and functional, and bring a smile to people's faces
+I'm a Web Developer with a passion for creating websites that not only look good but also solve real problems.
 
 * 🌍  I'm based in Bangladesh, Dhaka
 * ✉️  You can contact me at [tayefhossain200@gmail.com](mailto:tayefhossain@protonmail.com)
