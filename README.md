@@ -37,7 +37,7 @@ I'm a Web Developer with a passion for creating wedsite that not only look good 
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> 
     </picture> 
   </a> 
-  <a href="https://www.linkedin.com/in/mdTayef" target="_blank" rel="noreferrer"> 
+  <a href="https://www.linkedin.com/in/mdtayef" target="_blank" rel="noreferrer"> 
     <picture> 
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
