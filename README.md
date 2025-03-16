@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I'm a Web Developer with a passion for creating wedsite that not only look good but also solve real problems. When I'm not coding, you can find me exploring new technologies. I am always eager to take on new opportunities and working heard.
+I'm a Web Developer with a passion for creating wedsite that not only look good but also solve real problems. When I'm not coding, you can find me exploring new technologies. I am always eager to take on new opportunities and working hard.
 
 * 🌍  I'm based in Bangladesh, Dhaka
 * ✉️  You can contact me at [tayefhossain200@gmail.com](mailto:tayefhossain200@gmail.com)
